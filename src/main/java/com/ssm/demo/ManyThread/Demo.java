@@ -24,7 +24,7 @@ public class Demo {
         }
     }
 
-    // 读
+    // 读xieieieiieiei
     public int getI(){
         readLock.lock();
         try {
